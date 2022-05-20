@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mtebid
+- 👋 Hi, I’m Mbah Emmanuel 
 - 👀 I’m interested in  AWS Solution Architech, Azure and Google cloud and DeVops, Python, Java , Angile, ML
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps and AWS Solution Architech
