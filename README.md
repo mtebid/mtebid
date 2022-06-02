@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mbah Emmanuel 
-- 👀 I’m interested in  AWS Solution Architech, Azure and Google cloud and DeVops, Python, Java , Angile, ML
+- 👀 I’m interested in  DevOps and cloud computing
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on DevOps and AWS Solution Architech
-- 📫 How to reach me ...Email mbahemmanueltebid@gmail.com,
+- 📫 How to reach me ...Email mbahemmanueltebid@gmail.com,mtebid@yahoo.co.uk,
 
 <!---
 mtebid/mtebid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
