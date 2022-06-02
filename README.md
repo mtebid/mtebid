@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mbah Emmanuel 
 - 👀 I’m interested in  DevOps and cloud computing
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on DevOps and AWS Solution Architech
+- 💞️ I’m looking to collaborate on DevOps and clouds 
 - 📫 How to reach me ...Email mbahemmanueltebid@gmail.com,mtebid@yahoo.co.uk,
 
 <!---
